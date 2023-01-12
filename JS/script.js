@@ -37,22 +37,6 @@
 }
 
 {
-    const onRemoveParagraphClick = () => {
-        const paragraphLast = document.querySelector(".js-paragraphLast");
-
-        paragraphLast.remove();
-    }
-
-    const removeParagraph = () => {
-        const buttonParagraphRemove = document.querySelector(".js-buttonParagraphRemove");
-
-        buttonParagraphRemove.addEventListener("click", onRemoveParagraphClick);
-    }
-    removeParagraph();
-}
-
-
-{
     const onChangeParagraphClick = () => {
         const colorName = document.querySelector(".js-colorName");
         const paragraphLast = document.querySelector(".js-paragraphLast");
