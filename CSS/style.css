@@ -1,0 +1,66 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    color: #0a0a17;
+    background-color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+.dark {
+    color: #eee;
+    background-color: #b8b8b8;
+}
+
+.header {
+    color: #393737;
+    background-color: #ffffff;
+}
+
+.acapitColor {
+    color: #095c0d;
+}
+
+.paragraphEnd {
+    color: #05253c;
+}
+
+.buttonRemovePicture {
+    color: #726f7a;
+    background-color: #fffffff1;
+    border-color: #fffefe;
+    padding: 5px;
+    text-shadow: 1px 2px 3px rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.pictureFiord {
+    display: block;
+    margin: 0 auto;
+}
+
+.contactLink {
+    list-style-type: none;
+}
+
+.container {
+    overflow-x: auto;
+}
+
+.paragraphIntr {
+    color: #24404f
+}
+
+.linkCiekawostki {
+    color: #4f3660;
+    text-decoration: none;
+}

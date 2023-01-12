@@ -1,0 +1,8 @@
+.footer {
+    background-color: rgb(210, 211, 214);
+    padding: 2px;
+}
+.footer__listItem {
+    display: inline;
+     
+}

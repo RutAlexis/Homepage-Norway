@@ -1,0 +1,17 @@
+.aside {
+    margin-top: 80px;
+    padding: 20px 20px 40px 40px;
+    background-color: #dbdcdf;
+    max-width: 30%;
+    float: right;
+}
+.aside__link:focus {
+    outline: 3px solid rgb(94, 78, 79);
+}
+.aside__link:hover {
+    color: rgb(38, 47, 142);
+    border-bottom: 2px solid;
+}
+.aside__link:active {
+    color: rgb(156, 14, 14);
+}   

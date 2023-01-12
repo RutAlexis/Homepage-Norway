@@ -1,0 +1,33 @@
+.artice {
+    padding-top: 20px;
+    text-align: justify;
+    line-height: 1.5;
+}
+.artice__picture {
+    float: right;
+    padding: 5px;
+    display: block;
+    max-width: 200px;
+}
+
+.artice__button {
+    color: #726f7a;
+    background-color: #fffffff1;
+    border-color: #fffefe;
+    padding: 5px;
+    text-shadow: 1px 2px 3px rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: none;
+}
+.artice__list {
+    list-style-type:none;
+}
+.artice_button {
+    color: #726f7a;
+    background-color: #fffffff1;
+    border-color: #fffefe;
+    padding: 5px;
+    text-shadow: 1px 2px 3px rgb(255, 255, 255);
+    border-radius: 5px ;
+    text-decoration: none;
+}
