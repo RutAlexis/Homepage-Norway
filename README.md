@@ -5,8 +5,7 @@ The website contains information about traveling in Norway
 
 https://rutalexis.github.io/Homepage-Norway/ 
 
-![Picture Norway]
-<img  src="..//images/Norway demo.mp4" alt="demo">
+
 
 ## Description
 
